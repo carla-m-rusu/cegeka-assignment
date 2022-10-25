@@ -1,0 +1,173 @@
+{
+    "about": {
+        "name": "Carla-Maria Rusu",
+        "email": "carla.rusu9@gmail.com",
+        "headline": "Software Engineer",
+        "location": {
+            "city": "Cluj-Napoca",
+            "region": "Cluj",
+            "country": "Romania"
+        },
+        "profiles": [
+            {
+                "id": "4df61ffc-e48b-43f1-9434-add35d9cb155",
+                "url": "https://www.linkedin.com/in/carlarusu/",
+                "network": "LinkedIn",
+                "username": "carlarusu"
+            },
+            {
+                "id": "8f77327d-4484-40b4-92eb-65eaa6aae5f4",
+                "url": "https://github.com/carlarusu",
+                "network": "Github",
+                "username": "carlarusu"
+            }
+        ]
+    },
+    "experience": {
+        "id": "experience",
+        "name": "Work Experience",
+        "items": [
+            {
+                "name": "Exigea",
+                "position": "Software Engineer, U-Pax Crawling",
+                "period": "3 months",
+                "summary": "- Developed a Slack Bot tool for easy access to logging/triggers inside the crawler.\n- Implemented a Jira integration for creating tasks in case of critical warnings.\n\n**Technologies:** Python, Docker, Django, Celery, RabbitMQ, Scrapy, PostgreSQL, MongoDB, React",
+                "id": "61acb2d3-4860-4733-9975-99e3a182be19"
+            },
+            {
+                "id": "285d78f8-df56-4569-ba6b-cff5ebe5381e",
+                "period": "1.5 years",
+                "name": "Rudymental IT",
+                "summary": "- Developed a desktop traffic monitoring application which facilitates traffic survey generation by automating video analysis.\n- Embedded and customized various state-of-the-art deep learning models to provide multi-class multi-object detection and tracking, as well as vehicle licence plate recognition.\n- Designed and implemented a pipeline that extracts, manipulates and renders traffic video data into multiple traffic survey related functionalities, such as statistics, queries, rendered videos and equation computation.\n\n**Technologies:**  Python, Tkinter, PyTorch, TensorFlow, Anaconda. ",
+                "position": "Fullstack Developer, Traffic Plan"
+            },
+            {
+                "id": "fe280c61-9d92-4dba-8a08-274866470096",
+                "period": "8 months",
+                "name": "Thoughtworks",
+                "summary": "- Designed and implemented new features for the website, store and command center which improve user experience and ultimately provide a complete networking solution.\n- Developed and integrated customized themes using WordPress and PHP.\n- Facilitated marketing enablement and support with the use of Salesforce Pardot, ZenDesk and WordPress AIOSEO plugin.\n\n**Technologies:** PHP, Docker, Symphony, Vuejs, Javascript, WordPress, HTML/CSS, MySQL, Redis",
+                "position": "Developer, Untangle (Arista)"
+            }
+        ]
+    },
+    "skills": {
+        "id": "skills",
+        "name": "Skills",
+        "items": [
+            {
+                "id": "e27660b2-2b0f-48b0-9b04-3597f0282d06",
+                "name": "Frontend Web Development",
+                "keywords": [
+                    "ReactJS",
+                    "HTML/CSS",
+                    "jQuery",
+                    "PHP",
+                    "Angular",
+                    "Javascript"
+                ]
+            },
+            {
+                "id": "2f98e07e-21f7-4b40-81e3-4cf529d43339",
+                "name": "Backend Development",
+                "keywords": [
+                    "Java",
+                    "Spring",
+                    "Python",
+                    "Postman",
+                    "C/C++",
+                    "Liquibase"
+                ]
+            },
+            {
+                "id": "bf4253f2-7829-432c-a1d5-07446e7ae873",
+                "name": "Database Management Systems",
+                "keywords": [
+                    "MySQL",
+                    "PostgreSQL"
+                ]
+            },
+            {
+                "id": "0b4a6206-7a2b-47a4-b71d-59c24ceee219",
+                "name": "Infrastructure",
+                "keywords": [
+                    "Docker",
+                    "AWS",
+                    "Firebase",
+                    "Terraform",
+                    "Heroku",
+                    "Git"
+                ]
+            }
+        ]
+    },
+    "personal": {
+        "id": "personal",
+        "name": "Projects",
+        "items": [
+            {
+                "id": "8c12add5-605a-449f-a8a6-e7625c702e60",
+                "name": "DeepDream",
+                "summary": "Convolutional neural network based deep learning model which identifies and enhances patterns using algorithmic pareidolia.\n- Developed an understanding of the key factors in generative networks by delving into manipulating pretrained layers.\n- Employed gradient ascent to produce feature visualization and improved results using Gaussian filters to validate the model's learnings.",
+                "technologies": [
+                    "Python",
+                    "Colab",
+                    "Matplotlib",
+                    "OpenCV",
+                    "NumPy",
+                    "TensorFlow"
+                ],
+                "position": "Machine Learning Engineer"
+            },
+            {
+                "id": "ec58bb49-a6b1-49ed-9ff6-860a44663ed7",
+                "name": "IMMPlaH: Integrated Medical Monitoring Platform for Home-care assistance",
+                "summary": "Distributed system for an intelligent medication management system for home-care. Composed of several modules, the system is an improvement of remote healthcare:\n- Facilitates medical history and medication plan upkeeping through a patient management web application that caregivers can make use of.\n- Automatic pill-boxes aid patients by using a notification system to remind them of their medication; Lowers the risk of missing or taking extra medicine.\n- Patient safety is ensured by constant sensor monitoring, meant to detect if an accident took place; Sensor responses are registered in a queue and interpreted by the server, such that the caregiver is notified through the web application if any anomaly has occurred.\n",
+                "technologies": [
+                    "Java",
+                    "Spring",
+                    "Docker",
+                    "MySQL",
+                    "Angular",
+                    "Typescript",
+                    "RabbitMQ",
+                    "gRPC",
+                    "Heroku"
+                ],
+                "position": "Fullstack Developer"
+            }
+        ]
+    },
+    "education": {
+        "id": "education",
+        "name": "Education",
+        "items": [
+            {
+                "id": "3f0eded8-ee1f-4c0e-b4a7-7a0811c150db",
+                "area": "Computer Science",
+                "date": {
+                    "end": "2021-07-15T11:13:25.000Z",
+                    "start": "2017-09-30T22:00:00.000Z"
+                },
+                "degree": "Bachelor of Science",
+                "thesis": "Deep learning computer vision research project. Developed and tested three new transformer-based object detection architectures based on Facebook's DETR model.\n- Reduced training time by 45%, from 24h to 10.8h, by using 1/4th the parameters of the base model, while maintaining competitive scores.\n- Reduced convergence time by 50%, from 150 to 75 epochs, by using patch image embedding instead of feature maps of the initial image.\n- Proposed a transformer-only architecture, as opposed to the hybrid base model.\n\n**Technologies:** Python, Docker, PyTorch, Anaconda, Google Colab, Jupyter Notebook  ",
+                "institution": "Technical University of Cluj-Napoca"
+            }
+        ]
+    },
+    "languages": {
+        "id": "languages",
+        "name": "Languages",
+        "items": [
+            {
+                "id": "dd9eb2b8-2956-463b-b0b1-0ffef84f9fc2",
+                "name": "English",
+                "level": "C2 Proficiency"
+            },
+            {
+                "id": "6cf99d85-4efc-4ff8-9a7f-e76abd2d2857",
+                "name": "Romanian",
+                "level": "Native"
+            }
+        ]
+    }
+}
